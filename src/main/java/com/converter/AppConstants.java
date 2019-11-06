@@ -1,6 +1,6 @@
 package com.converter;
 
-public class Constants {
+public class AppConstants {
 
 	public static final String[] initails = {
 			"",
@@ -38,5 +38,11 @@ public class Constants {
 			" ninety"
 	};
 	
+	public static final String billion = " billion "; 
+	public static final String million = " million "; 
+	public static final String thousand = " thousand "; 
+	public static final String hundred = " hundred "; 
+	public static final String zero = "zero"; 
+	public static final String minus = "minus "; 
 
 }
